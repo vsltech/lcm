@@ -1,15 +1,6 @@
-# lcm
-Lungs Compliance Meter
-
-![alt tag](https://github.com/vsl-tech/lcm/blob/master/screen0.png)
-
-![alt tag](https://github.com/vsl-tech/lcm/blob/master/screen2.png)
-
-![alt tag](https://github.com/vsl-tech/lcm/blob/master/screen3.png)
+# Lungs Compliance Meter
 
 Lungs Compliance Meter: A simple automated device to demonstrate the measure of volume/pressure change in lungs using compliance curve.
-
- 
 
 
 It is working model for teaching Dynamic Airway Compression. The concept of lung compliance is generally considered to be difficult by students and therefore, over the years, medical educators have attempted to explain it in novel ways. However, all the methods published till now pertain to “static lung compliance”. We have constructed a simple device for demonstrating “dynamic lung compliance” and generating the flow-volume loop on any screen. The device comprises a 1500 mL plastic bottle filled with water and fitted with a balloon with a long neck, an ultrasonic sensor, and a syringe for sucking water, so that it can create negative pressure inside and air through tube inflates the balloon. Ultrasonic Sensor fitted in the cap of bottle measures the water level, further volume & pressure is calculated to plot the graph. Digitized data from the pressure and volume gauges are fed to the screen, enabling students to observe and record how dynamic compliance varies with the rate of increase in pressure inside the bottle. The recorded data enabled students in understanding the mechanism and significance of dynamic airway compression that occurs in chronic obstructive pulmonary diseases.
@@ -148,25 +139,9 @@ All calculations are done simultaneously for each reading based on formulas appl
 ●	Store all heights for dynamic compliance.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 4. Summary
 
 Lungs Compliance Meter can be further automated completely for ease of students to learn dynamic air compression. Lungs Compliance is the change in lung volume for each unit change in trans pulmonary pressure. Compliance is seen at low volumes (because of difficulty with initial lung inflation) and at high volumes (because of the limit of chest wall expansion). The total work of breathing of the cycle is the area contained in the loop.
-
-
-
-
 
 
 4.1 Hyperlinks
@@ -174,12 +149,6 @@ Lungs Compliance Meter can be further automated completely for ease of students 
 ➢	RaspberryPi: https://www.raspberrypi.org/
 ➢	Python: https://www.python.org/
 ➢	Mymodpi: https://www.modmypi.com/
-
-
-
-
-
-
 
 
 4.2 Project Links
