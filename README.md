@@ -1,5 +1,9 @@
 # Lungs Compliance Meter
 
+![alt tag](https://github.com/vsl-tech/lcm/blob/master/screen3.png) 
+
+![alt tag](https://github.com/vsl-tech/lcm/blob/master/screen2.JPG)
+
 Lungs Compliance Meter: A simple automated device to demonstrate the measure of volume/pressure change in lungs using compliance curve.
 
 
